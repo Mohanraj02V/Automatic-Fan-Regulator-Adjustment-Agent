@@ -1,0 +1,78 @@
+2025-10-02 10:44:19,049 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-10-02 10:44:21,614 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-10-02 10:44:22,049 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:22,049 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-10-02 10:44:25,175 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,479 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:44:25,480 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:44:25,480 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:44:25,483 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-10-02 10:44:25,483 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-10-02 10:44:25,484 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,485 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:44:25,485 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,487 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:44:25,488 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,490 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:44:25,490 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,492 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:44:25,493 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,494 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:44:25,496 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,498 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:44:25,499 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,501 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:44:25,501 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,507 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:44:25,508 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,510 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:44:25,511 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:44:25,511 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:44:25,514 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=VOICE) | Voice=None
+2025-10-02 10:44:25,515 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-10-02 10:44:25,515 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,517 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:44:25,518 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,521 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:44:25,522 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,524 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:44:25,525 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:25,529 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:44:38,742 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:39,829 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:44:50,852 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:44:51,943 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:45:25,105 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:26,499 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:45:34,979 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:34,982 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:45:37,691 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:37,694 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:45:42,427 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:42,430 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:45:50,352 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:50,357 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:45:55,218 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:45:55,222 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:46:03,452 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:03,456 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:46:10,741 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:10,746 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:46:16,365 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:16,368 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:46:21,388 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:21,391 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:46:26,862 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:26,867 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:46:33,047 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:33,050 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:46:37,745 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:37,749 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:46:42,867 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:42,871 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:46:47,685 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:47,689 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:46:53,012 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:46:53,016 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:47:47,363 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-10-02 10:47:47,372 | INFO | FanRegulator | ✅ Consumer stopped.
