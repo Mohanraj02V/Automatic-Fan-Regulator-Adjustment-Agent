@@ -1,0 +1,1096 @@
+2025-08-23 18:41:04,939 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 18:41:04,940 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.3, "outdoor_temperature": 27.2, "indoor_humidity": 48.1, "outdoor_humidity": 35.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 0, "recent_adjustment_trend": "none", "temperature_diff": -3.9, "humidity_index": 12.3, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:06,942 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.0, "outdoor_temperature": 31.1, "indoor_humidity": 60.3, "outdoor_humidity": 32.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -3.1, "humidity_index": 27.7, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:08,948 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.1, "outdoor_temperature": 31.0, "indoor_humidity": 61.8, "outdoor_humidity": 60.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -2.9, "humidity_index": 0.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:10,950 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.6, "outdoor_temperature": 22.6, "indoor_humidity": 44.2, "outdoor_humidity": 69.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 1.0, "humidity_index": -25.2, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:12,951 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.0, "outdoor_temperature": 21.8, "indoor_humidity": 47.6, "outdoor_humidity": 79.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 8.2, "humidity_index": -32.3, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:14,954 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.8, "outdoor_temperature": 23.0, "indoor_humidity": 62.4, "outdoor_humidity": 60.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 6.8, "humidity_index": 1.6, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:41:16,955 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 33.9, "indoor_humidity": 45.0, "outdoor_humidity": 60.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -10.0, "humidity_index": -15.0, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:18,956 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.4, "outdoor_temperature": 32.6, "indoor_humidity": 59.7, "outdoor_humidity": 46.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -6.2, "humidity_index": 13.5, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:20,957 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.7, "outdoor_temperature": 31.5, "indoor_humidity": 51.8, "outdoor_humidity": 43.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -2.8, "humidity_index": 8.1, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:41:22,959 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.0, "outdoor_temperature": 35.1, "indoor_humidity": 40.9, "outdoor_humidity": 61.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -7.1, "humidity_index": -20.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:24,960 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 26.4, "indoor_humidity": 45.2, "outdoor_humidity": 65.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": 0.1, "humidity_index": -19.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:26,962 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.4, "outdoor_temperature": 36.1, "indoor_humidity": 64.8, "outdoor_humidity": 62.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": -9.7, "humidity_index": 2.8, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:28,964 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.1, "outdoor_temperature": 21.6, "indoor_humidity": 47.1, "outdoor_humidity": 59.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": 0.5, "humidity_index": -12.8, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:30,965 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.8, "outdoor_temperature": 20.4, "indoor_humidity": 44.5, "outdoor_humidity": 56.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 3.4, "humidity_index": -11.5, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:32,966 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.9, "outdoor_temperature": 37.1, "indoor_humidity": 51.7, "outdoor_humidity": 43.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -10.2, "humidity_index": 8.1, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:34,967 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.0, "outdoor_temperature": 33.4, "indoor_humidity": 61.6, "outdoor_humidity": 41.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -7.4, "humidity_index": 19.8, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:36,969 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.7, "outdoor_temperature": 32.9, "indoor_humidity": 55.4, "outdoor_humidity": 40.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -10.2, "humidity_index": 14.7, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:38,971 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.2, "outdoor_temperature": 25.6, "indoor_humidity": 52.1, "outdoor_humidity": 47.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 2.6, "humidity_index": 4.5, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:41:40,972 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.6, "outdoor_temperature": 33.3, "indoor_humidity": 68.4, "outdoor_humidity": 53.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": -2.7, "humidity_index": 15.4, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:41:42,973 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 25.4, "indoor_humidity": 49.8, "outdoor_humidity": 65.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -1.5, "humidity_index": -16.0, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:41:44,975 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.0, "outdoor_temperature": 34.1, "indoor_humidity": 61.9, "outdoor_humidity": 30.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -9.1, "humidity_index": 31.6, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:46,977 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.4, "outdoor_temperature": 36.4, "indoor_humidity": 43.4, "outdoor_humidity": 33.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -9.0, "humidity_index": 9.5, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:41:48,978 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 26.7, "indoor_humidity": 49.1, "outdoor_humidity": 40.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": 4.9, "humidity_index": 8.5, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:41:50,980 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.4, "outdoor_temperature": 25.1, "indoor_humidity": 65.6, "outdoor_humidity": 64.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -0.7, "humidity_index": 0.7, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:41:52,982 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.0, "outdoor_temperature": 33.0, "indoor_humidity": 54.3, "outdoor_humidity": 35.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -7.0, "humidity_index": 18.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:41:54,983 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.4, "outdoor_temperature": 36.5, "indoor_humidity": 63.1, "outdoor_humidity": 59.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -5.1, "humidity_index": 3.2, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:41:56,984 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.8, "outdoor_temperature": 23.4, "indoor_humidity": 46.7, "outdoor_humidity": 38.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": 7.4, "humidity_index": 8.7, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:41:58,986 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.1, "outdoor_temperature": 31.6, "indoor_humidity": 58.6, "outdoor_humidity": 73.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -8.5, "humidity_index": -15.1, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:42:00,687 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 18:42:53,078 | INFO | FanRegulator | 👥 Consumer group: fan_group_latest
+2025-08-23 18:42:53,078 | INFO | FanRegulator | 🔄 Live mode: Reading from latest offset only
+2025-08-23 18:42:56,710 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-08-23 18:42:56,761 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-08-23 18:42:56,762 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-08-23 18:42:56,762 | INFO | FanRegulator | 🚀 Subscribed to Kafka topic: fan_regulator_data
+2025-08-23 18:42:56,762 | INFO | FanRegulator | 📊 Consumer group: fan_group_latest
+2025-08-23 18:42:56,792 | INFO | FanRegulator | ✅ Topic 'fan_regulator_data' exists
+2025-08-23 18:43:00,823 | INFO | FanRegulator | 📋 Assigned to 1 partitions
+2025-08-23 18:43:00,824 | INFO | FanRegulator | 🔍 Letting Kafka handle latest offset automatically
+2025-08-23 18:43:00,931 | INFO | FanRegulator | 🔍 Partition 0: seeking to offset 28
+2025-08-23 18:43:00,932 | INFO | FanRegulator | 📡 Ready to receive NEW messages only
+2025-08-23 18:43:06,991 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:43:17,117 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:43:27,248 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:43:37,378 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:43:47,477 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:43:57,578 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:44:05,675 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 18:44:05,719 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 18:45:59,756 | INFO | FanRegulator | 👥 Consumer group: fan_group_latest
+2025-08-23 18:45:59,757 | INFO | FanRegulator | 🔄 Live mode: Reading from latest offset only
+2025-08-23 18:46:02,254 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-08-23 18:46:02,270 | WARNING | FanRegulator | ⚠️ Invalid mode! Use: manual | ai | voice | hybrid
+2025-08-23 18:46:02,270 | INFO | FanRegulator | 🚀 Subscribed to Kafka topic: fan_regulator_data
+2025-08-23 18:46:02,270 | INFO | FanRegulator | 📊 Consumer group: fan_group_latest
+2025-08-23 18:46:02,289 | INFO | FanRegulator | ✅ Topic 'fan_regulator_data' exists
+2025-08-23 18:46:06,306 | INFO | FanRegulator | 📋 Assigned to 1 partitions
+2025-08-23 18:46:06,307 | INFO | FanRegulator | 🔍 Letting Kafka handle latest offset automatically
+2025-08-23 18:46:06,418 | INFO | FanRegulator | 🔍 Partition 0: seeking to offset 28
+2025-08-23 18:46:06,419 | INFO | FanRegulator | 📡 Ready to receive NEW messages only
+2025-08-23 18:46:12,493 | INFO | FanRegulator | 💓 Waiting for new messages...
+2025-08-23 18:46:16,546 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 18:46:16,556 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 18:46:48,354 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-08-23 18:46:51,044 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-08-23 18:46:51,062 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-08-23 18:46:51,062 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-08-23 18:46:51,063 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 18:46:54,494 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,495 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,497 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,499 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,501 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=5 (Mode=AI) 
+2025-08-23 18:46:54,504 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,508 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,512 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,517 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,522 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=AI) 
+2025-08-23 18:46:54,528 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,537 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=AI) 
+2025-08-23 18:46:54,545 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,555 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,563 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,571 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,582 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,588 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,593 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,597 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,602 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,608 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,616 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,623 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=AI) 
+2025-08-23 18:46:54,632 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,638 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,645 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:46:54,652 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=AI) 
+2025-08-23 18:47:08,978 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 18:47:08,989 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 18:48:35,580 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 18:48:35,581 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.0, "outdoor_temperature": 28.9, "indoor_humidity": 45.4, "outdoor_humidity": 47.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 0, "recent_adjustment_trend": "none", "temperature_diff": -6.9, "humidity_index": -2.3, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:48:37,583 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 35.5, "indoor_humidity": 64.3, "outdoor_humidity": 50.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -8.9, "humidity_index": 13.6, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:48:39,585 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.8, "outdoor_temperature": 21.4, "indoor_humidity": 47.8, "outdoor_humidity": 77.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 8.4, "humidity_index": -29.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:48:41,586 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.2, "outdoor_temperature": 29.6, "indoor_humidity": 45.4, "outdoor_humidity": 62.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 0.6, "humidity_index": -17.5, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:48:43,588 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.6, "outdoor_temperature": 28.2, "indoor_humidity": 60.6, "outdoor_humidity": 53.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -3.6, "humidity_index": 7.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:48:45,589 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.8, "outdoor_temperature": 34.3, "indoor_humidity": 62.6, "outdoor_humidity": 58.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -2.5, "humidity_index": 3.8, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:48:47,592 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.7, "outdoor_temperature": 31.7, "indoor_humidity": 40.0, "outdoor_humidity": 41.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -4.0, "humidity_index": -1.6, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:48:49,595 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.0, "outdoor_temperature": 30.9, "indoor_humidity": 49.6, "outdoor_humidity": 37.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -3.9, "humidity_index": 12.4, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:48:51,598 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.5, "outdoor_temperature": 21.7, "indoor_humidity": 44.9, "outdoor_humidity": 57.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": 1.8, "humidity_index": -12.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:48:53,600 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.3, "outdoor_temperature": 32.7, "indoor_humidity": 44.5, "outdoor_humidity": 76.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": -7.4, "humidity_index": -32.4, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:48:55,602 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.2, "outdoor_temperature": 34.7, "indoor_humidity": 40.2, "outdoor_humidity": 60.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -6.5, "humidity_index": -20.4, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:48:57,604 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.7, "outdoor_temperature": 27.1, "indoor_humidity": 57.0, "outdoor_humidity": 48.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 2.6, "humidity_index": 9.0, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:48:59,607 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.8, "outdoor_temperature": 37.3, "indoor_humidity": 63.7, "outdoor_humidity": 74.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": -5.5, "humidity_index": -10.7, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:01,609 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.7, "outdoor_temperature": 22.6, "indoor_humidity": 69.5, "outdoor_humidity": 51.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 1.1, "humidity_index": 17.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:03,611 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.2, "outdoor_temperature": 31.4, "indoor_humidity": 63.6, "outdoor_humidity": 48.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -0.2, "humidity_index": 15.0, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:49:05,612 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.1, "outdoor_temperature": 24.1, "indoor_humidity": 42.5, "outdoor_humidity": 65.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 1.0, "humidity_index": -23.0, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:07,615 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.3, "outdoor_temperature": 33.7, "indoor_humidity": 67.8, "outdoor_humidity": 68.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -2.4, "humidity_index": -1.1, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:09,617 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.1, "outdoor_temperature": 24.1, "indoor_humidity": 54.0, "outdoor_humidity": 60.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 0.0, "humidity_index": -6.1, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:11,619 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.2, "outdoor_temperature": 35.6, "indoor_humidity": 58.5, "outdoor_humidity": 43.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -13.4, "humidity_index": 14.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:49:13,622 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.3, "outdoor_temperature": 36.2, "indoor_humidity": 55.2, "outdoor_humidity": 57.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -10.9, "humidity_index": -2.0, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:49:15,623 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.8, "outdoor_temperature": 25.0, "indoor_humidity": 63.0, "outdoor_humidity": 56.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 5.8, "humidity_index": 6.3, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:17,625 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.7, "outdoor_temperature": 35.4, "indoor_humidity": 41.7, "outdoor_humidity": 69.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -3.7, "humidity_index": -28.1, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:19,628 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 27.9, "indoor_humidity": 57.1, "outdoor_humidity": 54.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": 3.7, "humidity_index": 2.7, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:49:21,629 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.1, "outdoor_temperature": 32.0, "indoor_humidity": 55.1, "outdoor_humidity": 68.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -3.9, "humidity_index": -12.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:23,632 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 22.8, "indoor_humidity": 46.7, "outdoor_humidity": 50.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 8.8, "humidity_index": -3.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:25,632 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.6, "outdoor_temperature": 25.6, "indoor_humidity": 52.9, "outdoor_humidity": 60.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 2.0, "humidity_index": -8.0, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:27,635 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.3, "outdoor_temperature": 21.1, "indoor_humidity": 67.4, "outdoor_humidity": 69.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 10.2, "humidity_index": -2.5, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:29,636 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.1, "outdoor_temperature": 34.3, "indoor_humidity": 69.9, "outdoor_humidity": 75.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": -11.2, "humidity_index": -5.5, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:31,637 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.0, "outdoor_temperature": 24.9, "indoor_humidity": 49.1, "outdoor_humidity": 75.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 4.1, "humidity_index": -26.2, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:33,639 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.8, "outdoor_temperature": 37.8, "indoor_humidity": 58.5, "outdoor_humidity": 67.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": -8.0, "humidity_index": -8.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:35,641 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.2, "outdoor_temperature": 28.4, "indoor_humidity": 69.6, "outdoor_humidity": 34.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": -1.2, "humidity_index": 35.6, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:49:37,643 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.3, "outdoor_temperature": 33.1, "indoor_humidity": 65.2, "outdoor_humidity": 37.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -8.8, "humidity_index": 27.8, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:39,645 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.8, "outdoor_temperature": 30.6, "indoor_humidity": 53.1, "outdoor_humidity": 57.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": 0.2, "humidity_index": -4.5, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:49:41,650 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.9, "outdoor_temperature": 33.5, "indoor_humidity": 68.2, "outdoor_humidity": 51.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -7.6, "humidity_index": 17.0, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:43,653 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.1, "outdoor_temperature": 34.0, "indoor_humidity": 57.2, "outdoor_humidity": 38.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": -3.9, "humidity_index": 19.2, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:45,655 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.0, "outdoor_temperature": 23.8, "indoor_humidity": 41.4, "outdoor_humidity": 42.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 2.2, "humidity_index": -1.1, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:47,657 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.9, "outdoor_temperature": 37.8, "indoor_humidity": 60.4, "outdoor_humidity": 74.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -11.9, "humidity_index": -13.6, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:49:49,660 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.3, "outdoor_temperature": 31.5, "indoor_humidity": 50.8, "outdoor_humidity": 35.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -6.2, "humidity_index": 15.7, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:51,662 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 23.5, "indoor_humidity": 57.1, "outdoor_humidity": 59.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": 3.1, "humidity_index": -2.6, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:53,665 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 21.4, "indoor_humidity": 43.2, "outdoor_humidity": 32.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 8.0, "humidity_index": 10.8, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:49:55,668 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.9, "outdoor_temperature": 36.3, "indoor_humidity": 55.4, "outdoor_humidity": 48.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": -4.4, "humidity_index": 6.5, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:49:57,669 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.0, "outdoor_temperature": 22.1, "indoor_humidity": 63.7, "outdoor_humidity": 57.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 4.9, "humidity_index": 6.4, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:49:59,672 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 34.2, "indoor_humidity": 43.2, "outdoor_humidity": 58.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -7.7, "humidity_index": -15.7, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:01,675 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.4, "outdoor_temperature": 31.5, "indoor_humidity": 53.7, "outdoor_humidity": 37.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -3.1, "humidity_index": 16.0, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:03,676 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.3, "outdoor_temperature": 33.9, "indoor_humidity": 60.7, "outdoor_humidity": 46.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -7.6, "humidity_index": 14.2, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:05,678 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 22.0, "indoor_humidity": 51.7, "outdoor_humidity": 75.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 9.6, "humidity_index": -24.0, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:50:07,680 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.7, "outdoor_temperature": 28.8, "indoor_humidity": 64.6, "outdoor_humidity": 78.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -3.1, "humidity_index": -13.5, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:09,685 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.0, "outdoor_temperature": 30.2, "indoor_humidity": 50.8, "outdoor_humidity": 72.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -7.2, "humidity_index": -21.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:11,687 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.7, "outdoor_temperature": 29.0, "indoor_humidity": 69.5, "outdoor_humidity": 39.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -0.3, "humidity_index": 29.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:13,689 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.6, "outdoor_temperature": 20.3, "indoor_humidity": 41.2, "outdoor_humidity": 43.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": 5.3, "humidity_index": -2.5, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:15,691 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 28.7, "indoor_humidity": 69.2, "outdoor_humidity": 48.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -2.1, "humidity_index": 21.2, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:17,694 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.8, "outdoor_temperature": 22.2, "indoor_humidity": 42.7, "outdoor_humidity": 48.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 2.6, "humidity_index": -5.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:19,696 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.3, "outdoor_temperature": 37.7, "indoor_humidity": 57.9, "outdoor_humidity": 65.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -10.4, "humidity_index": -7.2, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:21,698 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.3, "outdoor_temperature": 24.4, "indoor_humidity": 50.7, "outdoor_humidity": 33.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 3.9, "humidity_index": 17.0, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:23,701 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.9, "outdoor_temperature": 28.2, "indoor_humidity": 60.8, "outdoor_humidity": 59.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -5.3, "humidity_index": 1.3, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:25,703 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.3, "outdoor_temperature": 35.6, "indoor_humidity": 54.2, "outdoor_humidity": 77.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -6.3, "humidity_index": -23.1, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:27,705 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.3, "outdoor_temperature": 21.1, "indoor_humidity": 55.8, "outdoor_humidity": 66.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": 10.2, "humidity_index": -10.7, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:50:29,707 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.6, "outdoor_temperature": 27.7, "indoor_humidity": 45.5, "outdoor_humidity": 55.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -3.1, "humidity_index": -9.5, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:31,709 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.3, "outdoor_temperature": 32.9, "indoor_humidity": 50.8, "outdoor_humidity": 73.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -4.6, "humidity_index": -23.0, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:33,713 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.7, "outdoor_temperature": 29.1, "indoor_humidity": 68.2, "outdoor_humidity": 78.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -5.4, "humidity_index": -10.6, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:35,715 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.0, "outdoor_temperature": 22.2, "indoor_humidity": 62.0, "outdoor_humidity": 59.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -0.2, "humidity_index": 2.2, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:37,716 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.2, "outdoor_temperature": 23.7, "indoor_humidity": 65.9, "outdoor_humidity": 56.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 1.5, "humidity_index": 9.2, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:39,720 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.3, "outdoor_temperature": 28.3, "indoor_humidity": 52.3, "outdoor_humidity": 60.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 1.0, "humidity_index": -7.8, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:41,725 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.4, "outdoor_temperature": 31.8, "indoor_humidity": 64.8, "outdoor_humidity": 63.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -8.4, "humidity_index": 1.6, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:43,726 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.2, "outdoor_temperature": 24.4, "indoor_humidity": 58.1, "outdoor_humidity": 70.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 6.8, "humidity_index": -12.7, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:45,728 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.2, "outdoor_temperature": 32.7, "indoor_humidity": 66.5, "outdoor_humidity": 55.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -3.5, "humidity_index": 10.8, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:47,730 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 28.5, "indoor_humidity": 58.8, "outdoor_humidity": 70.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 0.9, "humidity_index": -11.9, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:50:49,731 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.1, "outdoor_temperature": 32.2, "indoor_humidity": 48.4, "outdoor_humidity": 38.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -7.1, "humidity_index": 10.2, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:51,733 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.4, "outdoor_temperature": 36.1, "indoor_humidity": 62.3, "outdoor_humidity": 30.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -13.7, "humidity_index": 31.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:50:53,735 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 33.0, "indoor_humidity": 69.8, "outdoor_humidity": 67.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -9.1, "humidity_index": 2.4, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:55,736 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 32.7, "indoor_humidity": 69.6, "outdoor_humidity": 71.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": -3.3, "humidity_index": -1.8, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:50:57,738 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.0, "outdoor_temperature": 20.6, "indoor_humidity": 54.8, "outdoor_humidity": 72.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": 5.4, "humidity_index": -17.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:50:59,740 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.5, "outdoor_temperature": 23.3, "indoor_humidity": 43.7, "outdoor_humidity": 56.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 5.2, "humidity_index": -12.5, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:51:01,743 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.7, "outdoor_temperature": 34.6, "indoor_humidity": 58.5, "outdoor_humidity": 38.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -11.9, "humidity_index": 20.1, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:03,747 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 31.5, "indoor_humidity": 65.9, "outdoor_humidity": 52.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -4.9, "humidity_index": 13.0, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:51:05,749 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.8, "outdoor_temperature": 23.0, "indoor_humidity": 61.0, "outdoor_humidity": 32.1, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 0.8, "humidity_index": 28.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:07,750 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.6, "outdoor_temperature": 33.7, "indoor_humidity": 47.4, "outdoor_humidity": 68.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -11.1, "humidity_index": -20.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:09,752 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.6, "outdoor_temperature": 25.8, "indoor_humidity": 44.6, "outdoor_humidity": 66.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -1.2, "humidity_index": -22.0, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:11,755 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.3, "outdoor_temperature": 30.3, "indoor_humidity": 61.5, "outdoor_humidity": 63.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -5.0, "humidity_index": -1.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:13,759 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.4, "outdoor_temperature": 28.4, "indoor_humidity": 50.2, "outdoor_humidity": 32.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -4.0, "humidity_index": 18.2, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:15,762 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.4, "outdoor_temperature": 23.1, "indoor_humidity": 55.5, "outdoor_humidity": 57.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 1.3, "humidity_index": -1.8, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:17,763 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.7, "outdoor_temperature": 21.5, "indoor_humidity": 67.8, "outdoor_humidity": 50.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 9.2, "humidity_index": 17.1, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:51:19,765 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.8, "outdoor_temperature": 37.1, "indoor_humidity": 44.7, "outdoor_humidity": 60.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -13.3, "humidity_index": -15.8, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:21,768 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.2, "outdoor_temperature": 26.2, "indoor_humidity": 57.6, "outdoor_humidity": 74.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -4.0, "humidity_index": -16.7, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:23,774 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.7, "outdoor_temperature": 27.2, "indoor_humidity": 49.6, "outdoor_humidity": 47.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 2.5, "humidity_index": 1.7, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:25,776 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.0, "outdoor_temperature": 36.1, "indoor_humidity": 57.9, "outdoor_humidity": 73.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -9.1, "humidity_index": -15.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:27,778 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.3, "outdoor_temperature": 35.5, "indoor_humidity": 41.0, "outdoor_humidity": 59.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -11.2, "humidity_index": -18.2, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:29,780 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.7, "outdoor_temperature": 24.4, "indoor_humidity": 43.3, "outdoor_humidity": 71.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 3.3, "humidity_index": -27.9, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:51:31,783 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.7, "outdoor_temperature": 26.4, "indoor_humidity": 62.7, "outdoor_humidity": 46.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -3.7, "humidity_index": 15.8, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:33,784 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 26.9, "indoor_humidity": 60.8, "outdoor_humidity": 42.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -0.4, "humidity_index": 18.5, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:35,786 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.5, "outdoor_temperature": 37.0, "indoor_humidity": 56.7, "outdoor_humidity": 47.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -14.5, "humidity_index": 8.8, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:37,787 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.1, "outdoor_temperature": 20.5, "indoor_humidity": 69.0, "outdoor_humidity": 75.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 3.6, "humidity_index": -6.8, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:51:39,790 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.7, "outdoor_temperature": 35.9, "indoor_humidity": 59.9, "outdoor_humidity": 35.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -4.2, "humidity_index": 24.7, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 18:51:41,792 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.1, "outdoor_temperature": 35.0, "indoor_humidity": 62.8, "outdoor_humidity": 62.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -4.9, "humidity_index": 0.5, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:51:43,794 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.7, "outdoor_temperature": 25.3, "indoor_humidity": 51.6, "outdoor_humidity": 53.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 1.4, "humidity_index": -1.4, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:45,797 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 27.1, "indoor_humidity": 56.5, "outdoor_humidity": 76.8, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -0.5, "humidity_index": -20.3, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:47,800 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.4, "outdoor_temperature": 25.6, "indoor_humidity": 43.5, "outdoor_humidity": 60.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": 0.8, "humidity_index": -16.7, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:49,802 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.4, "outdoor_temperature": 34.9, "indoor_humidity": 67.0, "outdoor_humidity": 46.0, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -7.5, "humidity_index": 21.0, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:51:51,804 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.6, "outdoor_temperature": 31.5, "indoor_humidity": 60.1, "outdoor_humidity": 40.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -5.9, "humidity_index": 19.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:53,805 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.1, "outdoor_temperature": 23.7, "indoor_humidity": 55.1, "outdoor_humidity": 48.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 4.4, "humidity_index": 6.4, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:55,807 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.7, "outdoor_temperature": 21.3, "indoor_humidity": 48.4, "outdoor_humidity": 58.9, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 4.4, "humidity_index": -10.5, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:51:57,809 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.3, "outdoor_temperature": 32.4, "indoor_humidity": 61.1, "outdoor_humidity": 73.3, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -8.1, "humidity_index": -12.2, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:51:59,811 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.4, "outdoor_temperature": 22.5, "indoor_humidity": 64.7, "outdoor_humidity": 59.7, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 7.9, "humidity_index": 5.0, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:52:01,814 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.1, "outdoor_temperature": 22.9, "indoor_humidity": 64.3, "outdoor_humidity": 65.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 5.2, "humidity_index": -1.3, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:52:03,816 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.6, "outdoor_temperature": 31.0, "indoor_humidity": 46.6, "outdoor_humidity": 45.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -3.4, "humidity_index": 1.0, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 18:52:05,818 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.5, "outdoor_temperature": 26.7, "indoor_humidity": 64.9, "outdoor_humidity": 73.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -4.2, "humidity_index": -8.6, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:52:07,821 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.3, "outdoor_temperature": 34.1, "indoor_humidity": 48.8, "outdoor_humidity": 51.4, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -5.8, "humidity_index": -2.6, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:52:09,823 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.2, "outdoor_temperature": 28.9, "indoor_humidity": 45.3, "outdoor_humidity": 41.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": -1.7, "humidity_index": 3.8, "regulator_level": 4, "mode": "manuel"}
+2025-08-23 18:52:11,825 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.1, "outdoor_temperature": 23.7, "indoor_humidity": 63.1, "outdoor_humidity": 32.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -0.6, "humidity_index": 30.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:52:13,827 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.2, "outdoor_temperature": 22.5, "indoor_humidity": 69.7, "outdoor_humidity": 56.6, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 3.7, "humidity_index": 13.1, "regulator_level": 5, "mode": "manuel"}
+2025-08-23 18:52:15,828 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.8, "outdoor_temperature": 31.5, "indoor_humidity": 56.0, "outdoor_humidity": 58.5, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -5.7, "humidity_index": -2.5, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:52:17,830 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 23.3, "indoor_humidity": 51.1, "outdoor_humidity": 41.2, "hour_of_day": 18, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": 0.6, "humidity_index": 9.9, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 18:52:17,854 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 18:53:04,186 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-08-23 18:53:06,592 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-08-23 18:53:06,606 | WARNING | FanRegulator | ⚠️ Invalid mode! Use: manual | ai | voice | hybrid
+2025-08-23 18:53:06,607 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 18:53:09,919 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,921 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,924 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,925 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,927 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,929 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:09,932 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,936 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,939 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:09,942 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,946 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,952 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,955 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,959 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,961 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,965 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:09,976 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:09,985 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:09,999 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,004 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,009 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,017 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,029 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,033 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,038 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,041 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,044 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,048 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,056 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,059 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,061 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,063 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,066 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,068 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,070 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,072 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,074 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,076 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,078 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,079 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,081 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,083 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,084 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,086 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,087 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,090 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,091 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,092 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,094 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,096 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=5 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,098 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,099 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,100 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,103 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,104 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,106 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,107 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,108 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,111 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,112 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,114 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,115 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,118 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,120 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,122 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,124 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,125 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,126 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,127 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,129 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,131 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,133 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,134 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,135 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=5 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,137 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,139 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,140 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,142 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,143 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,146 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,147 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,148 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,150 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,152 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,153 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,154 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,155 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,157 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,159 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,160 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,162 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,163 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,165 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,166 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,168 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,169 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,170 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,172 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,173 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,176 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,178 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,180 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,183 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,185 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,187 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,188 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,190 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,192 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,195 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,196 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,198 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,200 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,202 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,204 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,206 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,209 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,210 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,212 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,214 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,216 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,218 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:53:10,220 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,222 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,223 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,224 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=5 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,226 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,229 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,230 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,232 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,233 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,236 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,237 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,238 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:53:10,239 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,242 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,243 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:53:10,245 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,246 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:53:10,248 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:53:10,250 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:57:45,114 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 18:57:45,123 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 18:58:16,992 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-08-23 18:58:21,694 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-08-23 18:58:21,765 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 18:58:25,506 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,513 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,521 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,529 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,538 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,551 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:25,572 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,588 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,615 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:25,635 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,647 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,674 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,690 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,722 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,728 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,747 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,780 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,794 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:25,818 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:25,840 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:25,866 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,890 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:25,913 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:25,927 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:25,940 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:25,963 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:25,973 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:25,995 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,020 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,058 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,093 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,108 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,126 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,158 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:26,203 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:26,215 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,242 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,272 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,304 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,318 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,363 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,382 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,409 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:26,442 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,472 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:26,542 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:26,554 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,567 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:26,588 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,620 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:26,663 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:26,676 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,723 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,764 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,772 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,806 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,819 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,836 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,871 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:26,903 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:26,924 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:26,957 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:26,966 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:27,882 | INFO | FanRegulator | [Training] Loss=2.5104 | Version=0
+2025-08-23 18:58:28,016 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,079 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:28,126 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,166 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,233 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,268 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:28,310 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,347 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:28,376 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:28,419 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,448 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:28,471 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,501 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:28,528 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:28,567 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,599 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,649 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:28,688 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,716 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,732 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,774 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:28,796 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:28,823 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,863 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:28,901 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,920 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:28,946 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:28,989 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,002 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,028 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,046 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:29,069 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:29,092 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,141 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,194 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,255 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,317 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,375 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,403 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,458 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:29,502 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,516 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,545 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,553 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,598 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,613 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,641 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:29,680 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,691 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,731 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,739 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,762 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,801 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,817 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:29,858 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,872 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:29,904 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:29,932 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 18:58:29,946 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:29,985 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,016 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:30,035 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,076 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:30,099 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:30,135 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:30,182 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:30,235 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,261 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:30,287 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:30,314 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 18:58:30,347 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,368 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:30,384 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 18:58:30,421 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,437 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 18:58:30,475 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 18:58:30,514 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 19:00:40,563 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:00:40,602 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:01:07,696 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 19:01:07,697 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.5, "outdoor_temperature": 30.8, "indoor_humidity": 60.4, "outdoor_humidity": 76.1, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 0, "recent_adjustment_trend": "none", "temperature_diff": -2.3, "humidity_index": -15.7, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 19:01:09,698 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.3, "outdoor_temperature": 21.0, "indoor_humidity": 45.7, "outdoor_humidity": 49.0, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": 5.3, "humidity_index": -3.3, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 19:01:11,699 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 34.8, "indoor_humidity": 62.2, "outdoor_humidity": 65.2, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -10.9, "humidity_index": -3.0, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 19:01:13,700 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.0, "outdoor_temperature": 30.3, "indoor_humidity": 64.6, "outdoor_humidity": 77.5, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -1.3, "humidity_index": -12.9, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 19:01:14,276 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 19:02:43,030 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:02:45,430 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:02:45,447 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:04:25,601 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:04:25,612 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:05:05,064 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:05:07,481 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:05:07,499 | WARNING | FanRegulator | ⚠️ Invalid mode! Use: manual | ai | voice | hybrid
+2025-08-23 19:05:07,500 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:05:34,067 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:05:34,077 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:06:00,051 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:06:02,473 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:06:02,487 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:06:02,488 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:06:58,672 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:06:58,679 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:07:23,601 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:07:25,985 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:07:26,023 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-08-23 19:07:26,024 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-08-23 19:07:26,025 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:21:55,436 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:21:55,444 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:23:32,382 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:23:32,382 | INFO | FanRegulator | Running in consumer mode
+2025-08-23 19:23:36,790 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:23:36,843 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:23:36,845 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:24:27,511 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:24:27,527 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:25:05,712 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:25:05,712 | INFO | FanRegulator | Running in producer mode
+2025-08-23 19:25:05,714 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 19:25:05,715 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.2, "outdoor_temperature": 22.7, "indoor_humidity": 49.3, "outdoor_humidity": 73.5, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 0, "recent_adjustment_trend": "none", "temperature_diff": 0.5, "humidity_index": -24.2, "regulator_level": 1, "mode": "manuel"}
+2025-08-23 19:25:07,716 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.0, "outdoor_temperature": 26.8, "indoor_humidity": 63.8, "outdoor_humidity": 52.2, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 1.2, "humidity_index": 11.6, "regulator_level": 2, "mode": "manuel"}
+2025-08-23 19:25:09,717 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.6, "outdoor_temperature": 33.8, "indoor_humidity": 51.9, "outdoor_humidity": 50.1, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -4.2, "humidity_index": 1.8, "regulator_level": 3, "mode": "manuel"}
+2025-08-23 19:25:11,624 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 19:26:03,506 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:26:03,506 | INFO | FanRegulator | Running in consumer mode
+2025-08-23 19:26:06,432 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:26:06,450 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:26:06,451 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:27:42,693 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:27:42,725 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:28:17,401 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:28:17,402 | INFO | FanRegulator | Running in consumer mode
+2025-08-23 19:28:22,351 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:28:22,399 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:28:22,401 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:30:25,051 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:30:25,062 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:30:50,975 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:30:50,976 | INFO | FanRegulator | Running in consumer mode
+2025-08-23 19:30:53,382 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:30:53,397 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:30:53,398 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:31:12,304 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:31:12,314 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:31:45,715 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:31:45,716 | INFO | FanRegulator | Running in producer mode
+2025-08-23 19:31:45,718 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 19:31:45,718 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.8, "outdoor_temperature": 23.5, "indoor_humidity": 45.8, "outdoor_humidity": 64.5, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 0, "recent_adjustment_trend": "none", "temperature_diff": 3.3, "humidity_index": -18.7, "regulator_level": 2, "mode": "manual"}
+2025-08-23 19:31:47,719 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.5, "outdoor_temperature": 31.5, "indoor_humidity": 57.2, "outdoor_humidity": 50.6, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -1.0, "humidity_index": 6.6, "regulator_level": 5, "mode": "manual"}
+2025-08-23 19:31:49,721 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.5, "outdoor_temperature": 21.5, "indoor_humidity": 46.6, "outdoor_humidity": 66.4, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 3.0, "humidity_index": -19.8, "regulator_level": 1, "mode": "manual"}
+2025-08-23 19:31:51,723 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.8, "outdoor_temperature": 30.1, "indoor_humidity": 45.6, "outdoor_humidity": 54.2, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": -6.3, "humidity_index": -8.6, "regulator_level": 1, "mode": "manual"}
+2025-08-23 19:31:53,724 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.9, "outdoor_temperature": 36.6, "indoor_humidity": 59.3, "outdoor_humidity": 31.9, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -8.7, "humidity_index": 27.4, "regulator_level": 2, "mode": "manual"}
+2025-08-23 19:31:55,726 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.2, "outdoor_temperature": 21.9, "indoor_humidity": 55.6, "outdoor_humidity": 48.7, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 5.3, "humidity_index": 6.9, "regulator_level": 3, "mode": "manual"}
+2025-08-23 19:31:57,727 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.6, "outdoor_temperature": 26.6, "indoor_humidity": 59.0, "outdoor_humidity": 48.8, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 3.0, "humidity_index": 10.2, "regulator_level": 3, "mode": "manual"}
+2025-08-23 19:31:58,499 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 19:32:34,508 | INFO | FanRegulator | 🔄 Live mode: Using existing model.
+2025-08-23 19:32:34,509 | INFO | FanRegulator | Running in consumer mode
+2025-08-23 19:32:37,029 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:32:37,050 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:32:37,051 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-08-23 19:33:06,241 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:33:06,248 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:51:11,856 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 19:51:11,858 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 29.1, "indoor_humidity": 40.3, "outdoor_humidity": 41.8, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -2.6, "humidity_index": -1.5, "regulator_level": 2, "mode": "ai"}
+2025-08-23 19:51:13,859 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.6, "outdoor_temperature": 26.4, "indoor_humidity": 65.3, "outdoor_humidity": 37.5, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 2.2, "humidity_index": 27.8, "regulator_level": 4, "mode": "ai"}
+2025-08-23 19:51:15,860 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.3, "outdoor_temperature": 28.9, "indoor_humidity": 69.9, "outdoor_humidity": 49.9, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -0.6, "humidity_index": 20.0, "regulator_level": 3, "mode": "ai"}
+2025-08-23 19:51:17,861 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 22.4, "indoor_humidity": 63.1, "outdoor_humidity": 49.6, "hour_of_day": 19, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": 7.0, "humidity_index": 13.5, "regulator_level": 2, "mode": "ai"}
+2025-08-23 19:51:18,661 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 19:51:51,678 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:51:51,695 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-08-23 19:51:51,696 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-08-23 19:51:51,696 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-23 19:51:54,712 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-23 19:55:45,368 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=AI) 
+2025-08-23 19:56:10,444 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:56:10,447 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-23 19:56:10,453 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:58:12,470 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:58:12,492 | WARNING | FanRegulator | ⚠️ Invalid mode! Use: manual | ai | voice | hybrid
+2025-08-23 19:58:12,494 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-23 19:58:15,512 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-23 19:58:32,446 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 19:58:32,449 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-23 19:58:32,456 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-23 19:59:02,686 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-23 19:59:02,706 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 19:59:02,706 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-23 19:59:05,732 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-23 19:59:23,051 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:00:03,820 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-08-23 20:00:03,821 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-08-23 20:00:05,200 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=AI) 
+2025-08-23 20:00:22,755 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=AI) 
+2025-08-23 20:01:32,522 | INFO | FanRegulator | 🔀 Mode switch: AI → MANUAL | external request
+2025-08-23 20:01:32,523 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:01:33,905 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:03,576 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-23 20:07:03,577 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.4, "outdoor_temperature": 35.8, "indoor_humidity": 64.0, "outdoor_humidity": 43.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -5.4, "humidity_index": 20.1, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:03,617 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:04,972 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:05,579 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.7, "outdoor_temperature": 22.8, "indoor_humidity": 57.0, "outdoor_humidity": 65.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 8.9, "humidity_index": -8.5, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:05,601 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:05,605 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:07,581 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.1, "outdoor_temperature": 25.2, "indoor_humidity": 64.1, "outdoor_humidity": 66.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -3.1, "humidity_index": -2.4, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:07:07,599 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:07,603 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:07:09,583 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.0, "outdoor_temperature": 25.8, "indoor_humidity": 61.9, "outdoor_humidity": 40.1, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 1.2, "humidity_index": 21.8, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:09,606 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:09,613 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:11,585 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.3, "outdoor_temperature": 24.3, "indoor_humidity": 66.7, "outdoor_humidity": 56.1, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 5.0, "humidity_index": 10.6, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:07:11,597 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:11,602 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:07:13,587 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.1, "outdoor_temperature": 23.7, "indoor_humidity": 69.4, "outdoor_humidity": 54.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -1.6, "humidity_index": 14.8, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:13,609 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:13,613 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:15,589 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.0, "outdoor_temperature": 21.5, "indoor_humidity": 55.2, "outdoor_humidity": 47.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 8.5, "humidity_index": 7.8, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:07:15,615 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:15,621 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:07:17,591 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.4, "outdoor_temperature": 28.9, "indoor_humidity": 61.3, "outdoor_humidity": 72.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -2.5, "humidity_index": -11.1, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:17,604 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:17,609 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:19,593 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.8, "outdoor_temperature": 21.7, "indoor_humidity": 58.8, "outdoor_humidity": 44.8, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 3.1, "humidity_index": 14.0, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:19,616 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:19,621 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:21,595 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 36.9, "indoor_humidity": 54.4, "outdoor_humidity": 58.8, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -7.5, "humidity_index": -4.4, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:21,615 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:21,621 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:23,597 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.0, "outdoor_temperature": 25.9, "indoor_humidity": 64.9, "outdoor_humidity": 44.2, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 5.1, "humidity_index": 20.7, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:23,613 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:23,618 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:25,599 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.1, "outdoor_temperature": 29.7, "indoor_humidity": 64.9, "outdoor_humidity": 59.8, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "up", "temperature_diff": 0.4, "humidity_index": 5.1, "regulator_level": 5, "mode": "manual"}
+2025-08-23 20:07:25,619 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:25,624 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 20:07:27,602 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.4, "outdoor_temperature": 29.4, "indoor_humidity": 68.7, "outdoor_humidity": 74.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "steady", "temperature_diff": -3.0, "humidity_index": -6.0, "regulator_level": 5, "mode": "manual"}
+2025-08-23 20:07:27,613 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:27,616 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 20:07:29,604 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.4, "outdoor_temperature": 24.1, "indoor_humidity": 42.3, "outdoor_humidity": 65.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 5.3, "humidity_index": -23.4, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:29,622 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:29,628 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:31,607 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.4, "outdoor_temperature": 30.4, "indoor_humidity": 65.4, "outdoor_humidity": 49.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": -7.0, "humidity_index": 15.8, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:31,627 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:31,634 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:33,609 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.9, "outdoor_temperature": 28.1, "indoor_humidity": 68.3, "outdoor_humidity": 76.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 2.8, "humidity_index": -8.2, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:33,630 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:33,634 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:35,610 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.9, "outdoor_temperature": 29.0, "indoor_humidity": 50.1, "outdoor_humidity": 60.0, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -3.1, "humidity_index": -9.9, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:07:35,626 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:35,631 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:07:37,612 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.8, "outdoor_temperature": 33.5, "indoor_humidity": 54.9, "outdoor_humidity": 75.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -5.7, "humidity_index": -20.4, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:37,628 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:37,632 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:39,614 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.1, "outdoor_temperature": 23.1, "indoor_humidity": 64.2, "outdoor_humidity": 74.1, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -1.0, "humidity_index": -9.9, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:07:39,630 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:39,634 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:07:41,616 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.3, "outdoor_temperature": 33.4, "indoor_humidity": 63.3, "outdoor_humidity": 44.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -7.1, "humidity_index": 18.9, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:41,633 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:41,637 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:43,618 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.2, "outdoor_temperature": 22.4, "indoor_humidity": 43.7, "outdoor_humidity": 38.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -0.2, "humidity_index": 5.2, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:07:43,640 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:43,645 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:07:45,619 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.0, "outdoor_temperature": 36.5, "indoor_humidity": 48.1, "outdoor_humidity": 75.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -12.5, "humidity_index": -27.3, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:45,631 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:45,635 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:47,625 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.9, "outdoor_temperature": 28.0, "indoor_humidity": 48.3, "outdoor_humidity": 73.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -0.1, "humidity_index": -25.3, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:07:47,641 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:47,647 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:07:49,627 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.1, "outdoor_temperature": 34.1, "indoor_humidity": 65.0, "outdoor_humidity": 44.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -8.0, "humidity_index": 20.7, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:07:49,637 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:49,644 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:07:51,629 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.5, "outdoor_temperature": 21.7, "indoor_humidity": 63.9, "outdoor_humidity": 51.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 0.8, "humidity_index": 12.0, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:51,645 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:51,649 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:53,632 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.9, "outdoor_temperature": 26.6, "indoor_humidity": 63.5, "outdoor_humidity": 31.8, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 1.3, "humidity_index": 31.7, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:07:53,646 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:53,650 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:07:55,634 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.1, "outdoor_temperature": 24.6, "indoor_humidity": 40.0, "outdoor_humidity": 47.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -1.5, "humidity_index": -7.9, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:55,652 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:55,656 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:57,638 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.2, "outdoor_temperature": 37.4, "indoor_humidity": 49.6, "outdoor_humidity": 37.0, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -14.2, "humidity_index": 12.6, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:57,647 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:57,652 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:07:59,647 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.7, "outdoor_temperature": 20.4, "indoor_humidity": 57.8, "outdoor_humidity": 30.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 5.3, "humidity_index": 26.9, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:07:59,668 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:07:59,672 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:01,648 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.5, "outdoor_temperature": 31.6, "indoor_humidity": 42.6, "outdoor_humidity": 77.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -1.1, "humidity_index": -35.0, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:01,669 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:01,673 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:03,652 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.7, "outdoor_temperature": 24.7, "indoor_humidity": 42.5, "outdoor_humidity": 51.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 0.0, "humidity_index": -8.9, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:08:03,677 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:03,681 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:08:05,653 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.5, "outdoor_temperature": 33.0, "indoor_humidity": 40.2, "outdoor_humidity": 73.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "steady", "temperature_diff": -8.5, "humidity_index": -33.4, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:08:05,669 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:05,674 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=3 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:08:07,655 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.2, "outdoor_temperature": 20.9, "indoor_humidity": 65.9, "outdoor_humidity": 46.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 9.3, "humidity_index": 19.6, "regulator_level": 5, "mode": "manual"}
+2025-08-23 20:08:07,677 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:07,681 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 20:08:09,657 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.3, "outdoor_temperature": 37.6, "indoor_humidity": 66.5, "outdoor_humidity": 58.2, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -14.3, "humidity_index": 8.3, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:08:09,676 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:09,680 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:08:11,659 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.8, "outdoor_temperature": 29.9, "indoor_humidity": 45.9, "outdoor_humidity": 35.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": -1.1, "humidity_index": 10.4, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:11,682 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:11,685 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:13,664 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.5, "outdoor_temperature": 30.1, "indoor_humidity": 53.6, "outdoor_humidity": 50.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -1.6, "humidity_index": 3.2, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:13,676 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:13,681 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:15,666 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.3, "outdoor_temperature": 36.0, "indoor_humidity": 47.2, "outdoor_humidity": 53.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -8.7, "humidity_index": -6.5, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:15,683 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:15,689 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:17,668 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.2, "outdoor_temperature": 37.5, "indoor_humidity": 68.2, "outdoor_humidity": 71.2, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -9.3, "humidity_index": -3.0, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:08:17,682 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:17,687 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:08:19,670 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.2, "outdoor_temperature": 26.2, "indoor_humidity": 42.7, "outdoor_humidity": 32.1, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -2.0, "humidity_index": 10.6, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:19,690 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:19,694 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:21,671 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.0, "outdoor_temperature": 28.0, "indoor_humidity": 62.9, "outdoor_humidity": 43.2, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -4.0, "humidity_index": 19.7, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:21,686 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:21,692 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:23,673 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.4, "outdoor_temperature": 36.2, "indoor_humidity": 65.5, "outdoor_humidity": 34.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -7.8, "humidity_index": 30.8, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:08:23,691 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:23,696 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=2 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:08:25,675 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.0, "outdoor_temperature": 29.7, "indoor_humidity": 47.5, "outdoor_humidity": 53.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -7.7, "humidity_index": -6.1, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:08:25,698 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:25,703 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:08:27,676 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.4, "outdoor_temperature": 26.1, "indoor_humidity": 43.8, "outdoor_humidity": 75.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": 1.3, "humidity_index": -31.8, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:27,688 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:27,691 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=3 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:29,677 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.8, "outdoor_temperature": 30.0, "indoor_humidity": 57.5, "outdoor_humidity": 61.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -1.2, "humidity_index": -4.1, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:29,694 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:29,699 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:31,679 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.6, "outdoor_temperature": 27.5, "indoor_humidity": 60.5, "outdoor_humidity": 67.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": 3.1, "humidity_index": -6.9, "regulator_level": 5, "mode": "manual"}
+2025-08-23 20:08:31,696 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:31,700 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 20:08:33,680 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.2, "outdoor_temperature": 23.0, "indoor_humidity": 69.3, "outdoor_humidity": 46.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 1.2, "humidity_index": 22.6, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:33,702 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:33,706 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:35,682 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 27.1, "indoor_humidity": 58.5, "outdoor_humidity": 73.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 4.5, "humidity_index": -15.2, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:35,695 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:35,698 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:37,684 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.3, "outdoor_temperature": 23.1, "indoor_humidity": 53.5, "outdoor_humidity": 33.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": 4.2, "humidity_index": 20.2, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:37,698 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:37,704 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:39,685 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.7, "outdoor_temperature": 35.6, "indoor_humidity": 48.4, "outdoor_humidity": 53.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -5.9, "humidity_index": -4.9, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:08:39,703 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:39,707 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:08:41,687 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.2, "outdoor_temperature": 26.0, "indoor_humidity": 46.1, "outdoor_humidity": 65.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -0.8, "humidity_index": -19.3, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:41,710 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:41,712 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:43,689 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.9, "outdoor_temperature": 37.6, "indoor_humidity": 63.2, "outdoor_humidity": 59.6, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -10.7, "humidity_index": 3.6, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:43,701 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:43,705 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:45,691 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.6, "outdoor_temperature": 25.1, "indoor_humidity": 63.3, "outdoor_humidity": 57.5, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": 1.5, "humidity_index": 5.8, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:45,708 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:45,711 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:08:47,692 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.8, "outdoor_temperature": 33.4, "indoor_humidity": 68.0, "outdoor_humidity": 44.7, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -2.6, "humidity_index": 23.3, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:47,707 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:47,710 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:49,695 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.7, "outdoor_temperature": 34.8, "indoor_humidity": 62.1, "outdoor_humidity": 45.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "steady", "temperature_diff": -4.1, "humidity_index": 16.8, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:49,717 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:49,720 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:51,696 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.3, "outdoor_temperature": 32.9, "indoor_humidity": 50.2, "outdoor_humidity": 44.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -9.6, "humidity_index": 5.3, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:08:51,712 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:51,717 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:08:53,697 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.8, "outdoor_temperature": 32.8, "indoor_humidity": 67.4, "outdoor_humidity": 53.4, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -3.0, "humidity_index": 14.0, "regulator_level": 3, "mode": "manual"}
+2025-08-23 20:08:53,709 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:53,714 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=3 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-23 20:08:55,699 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.7, "outdoor_temperature": 24.6, "indoor_humidity": 61.1, "outdoor_humidity": 68.1, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 3, "recent_adjustment_trend": "up", "temperature_diff": 7.1, "humidity_index": -7.0, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:08:55,713 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:55,718 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=2 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:08:57,700 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.9, "outdoor_temperature": 25.6, "indoor_humidity": 64.0, "outdoor_humidity": 66.0, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 1.3, "humidity_index": -2.0, "regulator_level": 1, "mode": "manual"}
+2025-08-23 20:08:57,722 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:57,725 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=2 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-23 20:08:59,702 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.1, "outdoor_temperature": 25.8, "indoor_humidity": 45.2, "outdoor_humidity": 38.0, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 1, "recent_adjustment_trend": "up", "temperature_diff": -2.7, "humidity_index": 7.2, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:08:59,723 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:08:59,729 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:09:01,703 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.6, "outdoor_temperature": 28.8, "indoor_humidity": 56.9, "outdoor_humidity": 70.3, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "steady", "temperature_diff": -3.2, "humidity_index": -13.4, "regulator_level": 2, "mode": "manual"}
+2025-08-23 20:09:01,720 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:09:01,723 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=2 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-23 20:09:03,705 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.3, "outdoor_temperature": 33.7, "indoor_humidity": 69.7, "outdoor_humidity": 46.8, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -7.4, "humidity_index": 22.9, "regulator_level": 5, "mode": "manual"}
+2025-08-23 20:09:03,719 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:09:03,723 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=2 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-23 20:09:05,706 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.2, "outdoor_temperature": 23.7, "indoor_humidity": 44.8, "outdoor_humidity": 58.9, "hour_of_day": 20, "day_of_week": 5, "season": "monsoon", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": 7.5, "humidity_index": -14.1, "regulator_level": 4, "mode": "manual"}
+2025-08-23 20:09:05,718 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-23 20:09:06,106 | INFO | FanRegulator | [Training] Loss=0.8436 | Version=0
+2025-08-23 20:09:06,112 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-23 20:09:06,965 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-23 20:23:49,044 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-23 20:23:55,135 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-23 20:34:34,121 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-23 20:34:41,730 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-23 20:35:10,191 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-23 20:35:30,266 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-23 20:35:30,269 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-24 09:54:51,567 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-24 09:54:51,627 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 09:54:51,628 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-24 09:54:54,726 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-24 09:58:34,618 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:01:26,508 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:01:26,510 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.3, "outdoor_temperature": 24.5, "indoor_humidity": 48.9, "outdoor_humidity": 45.4, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -1.2, "humidity_index": 3.5, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:01:26,817 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:01:28,512 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 24.5, "indoor_humidity": 46.9, "outdoor_humidity": 38.8, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": 2.0, "humidity_index": 8.1, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:01:28,541 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:01:30,514 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.1, "outdoor_temperature": 32.6, "indoor_humidity": 40.1, "outdoor_humidity": 78.7, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -2.5, "humidity_index": -38.6, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:01:30,542 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:01:32,520 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.1, "outdoor_temperature": 35.5, "indoor_humidity": 58.6, "outdoor_humidity": 65.2, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -8.4, "humidity_index": -6.6, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:01:32,545 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:01:34,522 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.6, "outdoor_temperature": 23.9, "indoor_humidity": 57.3, "outdoor_humidity": 56.4, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -1.3, "humidity_index": 0.9, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:01:34,547 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:01:34,924 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:03:59,666 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:03:59,667 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.9, "outdoor_temperature": 33.7, "indoor_humidity": 58.4, "outdoor_humidity": 60.2, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -6.8, "humidity_index": -1.8, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:03:59,691 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:04:01,668 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.9, "outdoor_temperature": 35.1, "indoor_humidity": 55.3, "outdoor_humidity": 74.9, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "3", "recent_adjustment_trend": "steady", "temperature_diff": -3.2, "humidity_index": -19.6, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:04:01,684 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=5 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:04:03,672 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.5, "outdoor_temperature": 22.5, "indoor_humidity": 40.2, "outdoor_humidity": 69.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "3", "recent_adjustment_trend": "steady", "temperature_diff": 4.0, "humidity_index": -28.8, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:04:03,705 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:04:03,978 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:08:14,873 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:08:14,874 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.2, "outdoor_temperature": 28.0, "indoor_humidity": 61.6, "outdoor_humidity": 42.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 1.2, "humidity_index": 19.6, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:08:14,924 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:08:16,875 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.6, "outdoor_temperature": 31.5, "indoor_humidity": 67.6, "outdoor_humidity": 44.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -1.9, "humidity_index": 23.6, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:08:16,902 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:08:18,878 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.2, "outdoor_temperature": 29.2, "indoor_humidity": 56.8, "outdoor_humidity": 57.6, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": 0.0, "humidity_index": -0.8, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:08:18,902 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:08:20,696 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:11:14,779 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:11:14,780 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.0, "outdoor_temperature": 28.9, "indoor_humidity": 60.2, "outdoor_humidity": 61.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -0.9, "humidity_index": -0.9, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:11:14,803 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:11:16,782 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.5, "outdoor_temperature": 31.9, "indoor_humidity": 41.6, "outdoor_humidity": 65.9, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "4", "recent_adjustment_trend": "steady", "temperature_diff": -3.4, "humidity_index": -24.3, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:11:16,804 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:11:18,783 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.8, "outdoor_temperature": 37.4, "indoor_humidity": 41.0, "outdoor_humidity": 53.5, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "4", "recent_adjustment_trend": "steady", "temperature_diff": -9.6, "humidity_index": -12.5, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:11:18,804 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:11:20,785 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.1, "outdoor_temperature": 26.2, "indoor_humidity": 64.7, "outdoor_humidity": 54.2, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "4", "recent_adjustment_trend": "steady", "temperature_diff": -1.1, "humidity_index": 10.5, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:11:20,807 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:11:22,786 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.7, "outdoor_temperature": 20.0, "indoor_humidity": 62.0, "outdoor_humidity": 34.3, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "4", "recent_adjustment_trend": "steady", "temperature_diff": 5.7, "humidity_index": 27.7, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:11:22,810 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:11:23,484 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:13:34,068 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:13:34,068 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.4, "outdoor_temperature": 37.3, "indoor_humidity": 62.4, "outdoor_humidity": 31.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -13.9, "humidity_index": 31.3, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:13:34,096 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:13:36,069 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.2, "outdoor_temperature": 24.0, "indoor_humidity": 41.3, "outdoor_humidity": 54.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -1.8, "humidity_index": -12.8, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:13:36,092 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:13:37,066 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:14:15,814 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:14:15,815 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.9, "outdoor_temperature": 30.2, "indoor_humidity": 56.1, "outdoor_humidity": 73.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -0.3, "humidity_index": -17.0, "regulator_level": "1", "mode": "manual-test"}
+2025-08-24 10:14:15,835 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-24 10:14:17,817 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.8, "outdoor_temperature": 37.9, "indoor_humidity": 66.7, "outdoor_humidity": 79.3, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "1", "recent_adjustment_trend": "steady", "temperature_diff": -13.1, "humidity_index": -12.6, "regulator_level": "1", "mode": "manual-test"}
+2025-08-24 10:14:17,840 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-24 10:14:19,820 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.8, "outdoor_temperature": 35.7, "indoor_humidity": 60.5, "outdoor_humidity": 30.3, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "1", "recent_adjustment_trend": "steady", "temperature_diff": -10.9, "humidity_index": 30.2, "regulator_level": "1", "mode": "manual-test"}
+2025-08-24 10:14:19,843 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=MANUAL) 
+2025-08-24 10:14:20,608 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:21:29,606 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:21:29,607 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.6, "outdoor_temperature": 20.5, "indoor_humidity": 49.3, "outdoor_humidity": 50.9, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 8.1, "humidity_index": -1.6, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:21:29,628 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:21:31,609 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.3, "outdoor_temperature": 21.0, "indoor_humidity": 45.4, "outdoor_humidity": 75.9, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": 10.3, "humidity_index": -30.5, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:21:31,630 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=5 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:21:33,610 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.8, "outdoor_temperature": 32.9, "indoor_humidity": 59.6, "outdoor_humidity": 52.5, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -8.1, "humidity_index": 7.1, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:21:33,622 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:21:34,406 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:23:58,432 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:23:58,433 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.7, "outdoor_temperature": 33.5, "indoor_humidity": 57.7, "outdoor_humidity": 53.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -7.8, "humidity_index": 4.6, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:23:58,456 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:24:00,434 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.0, "outdoor_temperature": 20.7, "indoor_humidity": 44.6, "outdoor_humidity": 30.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "3", "recent_adjustment_trend": "steady", "temperature_diff": 3.3, "humidity_index": 14.5, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:24:00,454 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:24:02,436 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.4, "outdoor_temperature": 24.5, "indoor_humidity": 44.4, "outdoor_humidity": 58.5, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "3", "recent_adjustment_trend": "steady", "temperature_diff": 2.9, "humidity_index": -14.1, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:24:02,460 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:24:04,438 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.3, "outdoor_temperature": 22.2, "indoor_humidity": 68.1, "outdoor_humidity": 61.3, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "3", "recent_adjustment_trend": "steady", "temperature_diff": 7.1, "humidity_index": 6.8, "regulator_level": "3", "mode": "manual-test"}
+2025-08-24 10:24:04,444 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:24:04,454 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 10:30:08,252 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:30:08,253 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.6, "outdoor_temperature": 26.9, "indoor_humidity": 57.0, "outdoor_humidity": 75.2, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 3.7, "humidity_index": -18.2, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:30:08,289 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=5 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:30:10,254 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.8, "outdoor_temperature": 30.0, "indoor_humidity": 44.6, "outdoor_humidity": 71.2, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -6.2, "humidity_index": -26.6, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:30:10,267 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:30:12,257 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.7, "outdoor_temperature": 36.7, "indoor_humidity": 42.6, "outdoor_humidity": 52.5, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -7.0, "humidity_index": -9.9, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:30:12,285 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:30:12,310 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:36:31,918 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:36:31,918 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.1, "outdoor_temperature": 28.9, "indoor_humidity": 58.1, "outdoor_humidity": 74.4, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -4.8, "humidity_index": -16.3, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:36:31,951 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:36:33,919 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.9, "outdoor_temperature": 36.7, "indoor_humidity": 69.1, "outdoor_humidity": 67.8, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -11.8, "humidity_index": 1.3, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:36:33,947 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:36:35,920 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 26.2, "outdoor_temperature": 28.1, "indoor_humidity": 40.3, "outdoor_humidity": 47.4, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -1.9, "humidity_index": -7.1, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:36:35,945 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:36:36,769 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:39:26,871 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:39:26,872 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.8, "outdoor_temperature": 34.0, "indoor_humidity": 59.4, "outdoor_humidity": 52.8, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -5.2, "humidity_index": 6.6, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:39:26,895 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:39:28,873 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.3, "outdoor_temperature": 34.6, "indoor_humidity": 51.2, "outdoor_humidity": 56.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -3.3, "humidity_index": -4.8, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:39:28,903 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:39:30,874 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.8, "outdoor_temperature": 23.6, "indoor_humidity": 66.9, "outdoor_humidity": 58.7, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": 6.2, "humidity_index": 8.2, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:39:30,900 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:39:31,443 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:41:44,611 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:41:44,612 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.9, "outdoor_temperature": 26.1, "indoor_humidity": 64.2, "outdoor_humidity": 72.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 1.8, "humidity_index": -7.9, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:41:44,629 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:41:46,613 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.1, "outdoor_temperature": 29.1, "indoor_humidity": 51.6, "outdoor_humidity": 52.7, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": 0.0, "humidity_index": -1.1, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:41:46,642 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:41:48,615 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.2, "outdoor_temperature": 28.3, "indoor_humidity": 54.9, "outdoor_humidity": 76.1, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "2", "recent_adjustment_trend": "steady", "temperature_diff": -0.1, "humidity_index": -21.2, "regulator_level": "2", "mode": "manual-test"}
+2025-08-24 10:41:48,641 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=5 | Final Fan Level=2 (Mode=MANUAL) 
+2025-08-24 10:41:50,415 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:45:07,685 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:45:07,686 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.6, "outdoor_temperature": 31.6, "indoor_humidity": 64.2, "outdoor_humidity": 63.6, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -2.0, "humidity_index": 0.6, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:45:07,709 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:45:09,688 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.9, "outdoor_temperature": 32.0, "indoor_humidity": 42.9, "outdoor_humidity": 41.3, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "4", "recent_adjustment_trend": "steady", "temperature_diff": -7.1, "humidity_index": 1.6, "regulator_level": "4", "mode": "manual-test"}
+2025-08-24 10:45:09,703 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=3 | Final Fan Level=4 (Mode=MANUAL) 
+2025-08-24 10:45:11,369 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 10:45:46,887 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 10:45:46,888 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.4, "outdoor_temperature": 30.0, "indoor_humidity": 63.9, "outdoor_humidity": 43.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 1.4, "humidity_index": 20.9, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:45:46,925 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:45:48,889 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.0, "outdoor_temperature": 34.9, "indoor_humidity": 43.7, "outdoor_humidity": 57.0, "hour_of_day": 10, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -11.9, "humidity_index": -13.3, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 10:45:48,914 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 10:45:50,728 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 11:09:23,545 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 11:09:23,546 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.4, "outdoor_temperature": 20.6, "indoor_humidity": 67.9, "outdoor_humidity": 35.5, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 2.8, "humidity_index": 32.4, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:09:23,688 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:09:25,547 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.2, "outdoor_temperature": 25.8, "indoor_humidity": 44.8, "outdoor_humidity": 44.2, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": 4.4, "humidity_index": 0.6, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:09:25,564 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:09:27,548 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 25.2, "outdoor_temperature": 36.7, "indoor_humidity": 42.1, "outdoor_humidity": 63.8, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -11.5, "humidity_index": -21.7, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:09:27,564 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:09:29,090 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 11:11:25,228 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-08-24 11:11:25,228 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 22.2, "outdoor_temperature": 26.4, "indoor_humidity": 58.5, "outdoor_humidity": 79.4, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": -4.2, "humidity_index": -20.9, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:11:25,251 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:11:27,229 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 24.5, "outdoor_temperature": 24.6, "indoor_humidity": 58.8, "outdoor_humidity": 36.8, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -0.1, "humidity_index": 22.0, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:11:27,250 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:11:29,232 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 27.1, "outdoor_temperature": 37.1, "indoor_humidity": 48.5, "outdoor_humidity": 30.7, "hour_of_day": 11, "day_of_week": 6, "season": "monsoon", "previous_fan_level": "5", "recent_adjustment_trend": "steady", "temperature_diff": -10.0, "humidity_index": 17.8, "regulator_level": "5", "mode": "manual-test"}
+2025-08-24 11:11:29,251 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=3 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:11:30,222 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-08-24 11:32:05,670 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-24 11:32:05,673 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-24 11:32:05,730 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-24 11:32:23,267 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-24 11:32:23,297 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 11:32:23,297 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-24 11:32:26,332 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-24 11:33:29,947 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 11:33:30,164 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:35:33,174 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-08-24 11:35:33,175 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:35:33,184 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-08-24 11:36:54,725 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:36:54,732 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=VOICE) | Voice=None
+2025-08-24 11:44:45,065 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:44:45,077 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-08-24 11:48:06,804 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:48:06,813 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=VOICE) | Voice=None
+2025-08-24 11:49:27,923 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-08-24 11:49:27,923 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 11:49:27,926 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=4 | Final Fan Level=3 (Mode=MANUAL) 
+2025-08-24 11:49:51,948 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-08-24 11:49:51,950 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-24 11:49:51,958 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-08-24 11:58:06,816 | INFO | FanRegulator | ✅ Loaded existing model successfully.
+2025-08-24 11:58:07,149 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 11:58:07,149 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-08-24 11:58:10,173 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-08-24 11:58:10,176 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-08-24 11:58:10,176 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:58:10,356 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=VOICE) | Voice=None
+2025-08-24 11:58:10,359 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:58:10,361 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=VOICE) | Voice=None
+2025-08-24 11:58:10,363 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:58:10,364 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=4 | Final Fan Level=1 (Mode=VOICE) | Voice=None
+2025-08-24 11:58:10,367 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-08-24 11:58:10,368 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-08-24 11:58:10,371 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=MANUAL) 
+2025-08-24 11:58:40,868 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-08-24 11:58:40,869 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 11:58:40,873 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=4 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-08-24 12:01:57,438 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 12:01:57,443 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=4 | Final Fan Level=5 (Mode=VOICE) | Voice=None
+2025-08-24 12:05:44,196 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-08-24 12:05:44,202 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=4 | Final Fan Level=4 (Mode=VOICE) | Voice=None
+2025-08-24 12:24:00,234 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-08-24 12:24:04,284 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-10-02 10:05:16,713 | INFO | FanRegulator | 🚀 Starting Kafka Producer simulator...
+2025-10-02 10:05:16,717 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.9, "outdoor_temperature": 23.1, "indoor_humidity": 52.3, "outdoor_humidity": 58.5, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 2, "recent_adjustment_trend": "none", "temperature_diff": 7.8, "humidity_index": -6.2, "regulator_level": 4, "mode": "manual"}
+2025-10-02 10:05:18,719 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.1, "outdoor_temperature": 31.9, "indoor_humidity": 59.1, "outdoor_humidity": 42.9, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": -2.8, "humidity_index": 16.2, "regulator_level": 2, "mode": "manual"}
+2025-10-02 10:05:20,720 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 32.3, "indoor_humidity": 56.7, "outdoor_humidity": 52.8, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 2, "recent_adjustment_trend": "up", "temperature_diff": -0.7, "humidity_index": 3.9, "regulator_level": 5, "mode": "manual"}
+2025-10-02 10:05:22,747 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 31.6, "outdoor_temperature": 36.7, "indoor_humidity": 52.1, "outdoor_humidity": 31.2, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 5, "recent_adjustment_trend": "down", "temperature_diff": -5.1, "humidity_index": 20.9, "regulator_level": 4, "mode": "manual"}
+2025-10-02 10:05:24,748 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 29.0, "outdoor_temperature": 22.9, "indoor_humidity": 41.9, "outdoor_humidity": 47.4, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 4, "recent_adjustment_trend": "down", "temperature_diff": 6.1, "humidity_index": -5.5, "regulator_level": 3, "mode": "manual"}
+2025-10-02 10:05:26,751 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 30.1, "outdoor_temperature": 28.3, "indoor_humidity": 48.2, "outdoor_humidity": 74.9, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 3, "recent_adjustment_trend": "steady", "temperature_diff": 1.8, "humidity_index": -26.7, "regulator_level": 3, "mode": "manual"}
+2025-10-02 10:05:28,754 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 28.2, "outdoor_temperature": 35.1, "indoor_humidity": 41.4, "outdoor_humidity": 58.9, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 3, "recent_adjustment_trend": "down", "temperature_diff": -6.9, "humidity_index": -17.5, "regulator_level": 2, "mode": "manual"}
+2025-10-02 10:05:30,756 | INFO | FanRegulator | 📡 Sent: {"indoor_temperature": 23.9, "outdoor_temperature": 31.7, "indoor_humidity": 61.2, "outdoor_humidity": 66.6, "hour_of_day": 10, "day_of_week": 3, "season": "autumn", "previous_fan_level": 2, "recent_adjustment_trend": "down", "temperature_diff": -7.8, "humidity_index": -5.4, "regulator_level": 1, "mode": "manual"}
+2025-10-02 10:05:30,873 | INFO | FanRegulator | 🛑 Producer stopped by user.
+2025-10-02 10:06:31,062 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-10-02 10:06:31,230 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:06:31,233 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data | group: fan_group | from_beginning=False | tail_new=False
+2025-10-02 10:06:34,498 | INFO | FanRegulator | 📌 Assigned partitions, using stored offsets / auto.offset.reset.
+2025-10-02 10:09:25,397 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-10-02 10:09:25,400 | INFO | FanRegulator | ♻️ Partitions revoked; offsets committed.
+2025-10-02 10:09:25,436 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-10-02 10:10:18,752 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-10-02 10:10:21,338 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-10-02 10:10:21,517 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → AI | external request
+2025-10-02 10:10:21,517 | INFO | FanRegulator | 🔀 Mode switched to: AI
+2025-10-02 10:10:21,518 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-10-02 10:10:24,730 | INFO | FanRegulator | 🔀 Mode switch: AI → MANUAL | external request
+2025-10-02 10:10:24,730 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,048 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:10:25,048 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:10:25,049 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:10:25,051 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-10-02 10:10:25,052 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-10-02 10:10:25,052 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,054 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:10:25,055 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,059 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:10:25,060 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,064 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:10:25,065 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,069 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:10:25,071 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,076 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:10:25,076 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,079 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:10:25,080 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,086 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:10:25,088 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:10:25,094 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:15:47,989 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:15:49,408 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:16:06,259 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:16:06,259 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:16:07,686 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=VOICE) | Voice=None
+2025-10-02 10:18:34,336 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-10-02 10:18:34,343 | INFO | FanRegulator | ✅ Consumer stopped.
+2025-10-02 10:26:27,967 | INFO | FanRegulator | 🔄 Recovery mode: No saved model found, starting fresh.
+2025-10-02 10:26:30,485 | INFO | FanRegulator | 🆕 No checkpoint found. Starting fresh model.
+2025-10-02 10:26:30,625 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:30,625 | INFO | FanRegulator | 🚀 Connected to Kafka topic: fan_regulator_data
+2025-10-02 10:26:33,757 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,964 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:26:33,965 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:26:33,965 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:26:33,967 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=VOICE) | Voice=None
+2025-10-02 10:26:33,968 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-10-02 10:26:33,968 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,969 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:26:33,970 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,972 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:26:33,973 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,975 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:26:33,976 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,978 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:26:33,979 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,984 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:26:33,986 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:33,993 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=MANUAL) 
+2025-10-02 10:26:33,995 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:34,004 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:26:34,006 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:34,012 | INFO | FanRegulator | 🎯 Target=1 | 🤖 Predicted=1 | Final Fan Level=1 (Mode=MANUAL) 
+2025-10-02 10:26:34,014 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:34,024 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:26:34,025 | INFO | FanRegulator | 🔀 Mode switch: MANUAL → VOICE | external request
+2025-10-02 10:26:34,026 | INFO | FanRegulator | 🔀 Mode switched to: VOICE
+2025-10-02 10:26:34,035 | INFO | FanRegulator | 🎯 Target=3 | 🤖 Predicted=1 | Final Fan Level=3 (Mode=VOICE) | Voice=None
+2025-10-02 10:26:50,607 | INFO | FanRegulator | 🔀 Mode switch: VOICE → MANUAL | external request
+2025-10-02 10:26:50,608 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:26:52,021 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:27:06,108 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:27:07,145 | INFO | FanRegulator | 🎯 Target=2 | 🤖 Predicted=1 | Final Fan Level=2 (Mode=MANUAL) 
+2025-10-02 10:27:11,791 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:27:11,795 | INFO | FanRegulator | 🎯 Target=5 | 🤖 Predicted=1 | Final Fan Level=5 (Mode=MANUAL) 
+2025-10-02 10:27:16,886 | INFO | FanRegulator | 🔀 Mode switched to: MANUAL
+2025-10-02 10:27:16,890 | INFO | FanRegulator | 🎯 Target=4 | 🤖 Predicted=1 | Final Fan Level=4 (Mode=MANUAL) 
+2025-10-02 10:29:00,068 | INFO | FanRegulator | 🛑 Graceful shutdown requested...
+2025-10-02 10:29:00,078 | INFO | FanRegulator | ✅ Consumer stopped.
